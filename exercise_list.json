@@ -1,0 +1,54 @@
+{
+    "exercises":[ 
+        {
+        "bench press": [{
+            "body_parts":["chest", "triceps", "front deltoids"],
+            "rep_ranges": ["1..3", "4..6"]
+            }],
+        "overhead press": [{
+            "body_parts":["triceps", "front deltoids",  "side deltoids"],
+            "rep_ranges": ["4..6", "7..9"]
+            }],
+        "tricep extensions": [{
+            "body_parts":["triceps", "front deltoids",  "side deltoids"],
+            "rep_ranges": ["4..6", "7..9", "10..12"]
+            }],
+
+        "chest flies": [{
+            "body_parts":["chest"],
+            "rep_ranges": ["4..6", "7..9", "10..12"]
+            }],
+    
+        "squat": [{
+            "body_parts":["quads", "hamstrings","glutes"],
+            "rep_ranges": ["1..3", "4..6", "7..9", "10..12"]
+            }],
+
+        "deadlift": [{
+            "body_parts":["lower back", "hamstrings", "quads", "glutes", "upper back", "lats"],
+            "rep_ranges": ["1..3", "4..5"]
+            }],
+
+        "pull up": [{
+            "body_parts":["lats", "upper back", "biceps"],
+            "rep_ranges": ["4..6", "7..9", "10..12"]
+            }],
+
+        "row": [{
+            "body_parts":["lats", "upper back", "lower back", "rear deltoids"],
+            "rep_ranges": ["4..6", "7..9", "10..12"]
+            }],
+
+        "bicep curl": [{
+            "body_parts":["biceps"],
+            "rep_ranges": ["4..6", "7..9", "10..12"]
+            }],
+
+        "chin up": [{
+            "body_parts":["biceps", "lats"],
+            "rep_ranges": ["4..6", "7..9", "10..12"]
+            }]
+
+    }
+    ]
+}
