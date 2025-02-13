@@ -8,7 +8,7 @@ Once you have run through the executable, verify it has been installed by openin
 If all is installed correctly you should see the current version of Python displayed. If you get an error, uhh try installing it again or follow some actual instructions.
 
 # Running Python Programs
-Once Python is installed download this repository and place it somewhere you can remember, for example in downloads.
+Once Python is installed download this repository by clicking the giant green ">CODE" button at the top and click download zip, and place it somewhere you can remember, for example in downloads.
 Open Powershell and navigate to the repository. This can be done by using the `cd <path>` command.  Simply put the full and absolute path to the download location of the repository where you see `<path>` in the previous command. If you placed it in downloads the command will look something like `cd cd C:\Users\User\Downloads`. You can move folder by folder by replacing `<folder>` in `cd <folder>` with the folder you want to go into or you can use `cd ..` to go up a folder.
 
 You can see the contents of the current directory by using the `ls` command.
