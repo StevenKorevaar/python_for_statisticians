@@ -2,7 +2,7 @@
 This is a very quick and dirty introduction to Python to get researchers up and running with Python.
 
 # Installing Python
-Python can be installed from the following linK: https://www.python.org/downloads/. ENsure that you select "Add to PATH environement variable" in the installer to ensure you can use Python from anywhere on your machine.
+Python can be installed from the following linK: https://www.python.org/downloads/. Ensure that you select "Add to PATH environment variable" in the installer to ensure you can use Python from anywhere on your machine.
 Once you have run through the executable, verify it has been installed by opening Powershell and running the command:
 `python --version`
 If all is installed correctly you should see the current version of Python displayed. If you get an error, uhh try installing it again or follow some actual instructions.
